@@ -4,14 +4,18 @@
 
 **<div align="center">Full Stack Web Developer | JavaScript </div>**  
   
+### Sobre mi:
+- 🌎 Vivo en Buenos Aires, Argentina
+- <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Graduada en  **[Henry](https://www.soyhenry.com/webfullstack)**
+- 📚 Cuento con conocimientos sobre QA Testing
+- 🌱 Actualmente estoy aprendiendo TypeScript
 
-  
   
 
 <br/>  
 
 
-## My Skill Set  
+## Mis Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -51,16 +55,17 @@
 <br/>  
 
 
-## Connect with me  
+## Contacto  
 <div align="center">
 <a href="https://github.com/MadridSelene" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/selene-madrid" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a> 
+  <br/>
+ 📫 seleneailenmadrid@gmail.com  
 </div>  
-  
 
 <br/>  
 
